@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisthedataguy" alt="luisthedataguy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/naiveewarrior" target="blank"><img src="https://img.shields.io/twitter/follow/naiveewarrior?logo=twitter&style=for-the-badge" alt="naiveewarrior" /></a> </p>
+<p align="left"> <a href="https://twitter.com/techie_warrior" target="blank"><img src="https://img.shields.io/twitter/follow/naiveewarrior?logo=twitter&style=for-the-badge" alt="naiveewarrior" /></a> </p>
 
 - 🔭 I’m currently working on **bootcamps and self studying**
 
